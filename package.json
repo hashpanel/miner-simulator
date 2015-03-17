@@ -19,6 +19,7 @@
   "homepage": "https://github.com/hashpanel/miner-simulator",
   "dependencies": {
     "bluebird": "^2.9.14",
-    "lodash": "^3.5.0"
+    "lodash": "^3.5.0",
+    "moment": "^2.9.0"
   }
 }
